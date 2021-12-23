@@ -1,0 +1,22 @@
+.card {
+  height: 300px;
+  background-color: #68ebca;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 2px -1px rgba(58, 55, 55, 0.2);
+}
+.circle1 {
+  background: #ff685d;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
+.circleshare1 {
+  border-radius: 50%;
+  background: #3e4855;
+  width: 120px;
+  height: 120px;
+}

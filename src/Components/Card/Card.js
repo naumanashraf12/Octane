@@ -10,7 +10,7 @@ const Card = () => {
           <div className="card">
             <div className="circle1" style={{ display: "flex" }}>
               <img
-                style={{ width: "100px", margin: "auto" }}
+                style={{ width: "80px", margin: "auto" }}
                 src="./images/okane-256.png"
                 alt=""
               />
@@ -53,7 +53,7 @@ const Card = () => {
           <div className="card">
             <div className="circleshare1" style={{ display: "flex" }}>
               <img
-                style={{ width: "100px", margin: "auto" }}
+                style={{ width: "80px", margin: "auto" }}
                 src="./images/oshare-256.png"
                 alt=""
               />
@@ -96,7 +96,7 @@ const Card = () => {
           <div className="card">
             <div className="circle1" style={{ display: "flex" }}>
               <img
-                style={{ width: "100px", margin: "auto" }}
+                style={{ width: "80px", margin: "auto" }}
                 src="./images/okane-256.png"
                 alt=""
               />
@@ -141,7 +141,7 @@ const Card = () => {
           <div className="card">
             <div className="circle1" style={{ display: "flex" }}>
               <img
-                style={{ width: "100px", margin: "auto", textAlign: "center" }}
+                style={{ width: "80px", margin: "auto", textAlign: "center" }}
                 src="./images/okane-bnb-LP-256.png"
                 alt=""
               />
@@ -208,7 +208,7 @@ const Card = () => {
               style={{ display: "flex", textAlign: "center" }}
             >
               <img
-                style={{ width: "100px", margin: "auto" }}
+                style={{ width: "80px", margin: "auto" }}
                 src="./images/oshare-bnb-LP-256.png"
                 alt=""
               />

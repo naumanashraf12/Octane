@@ -1,5 +1,4 @@
 import React from "react";
-import "./Footer.css";
 
 const Footer = () => {
   return (
@@ -7,7 +6,7 @@ const Footer = () => {
       className="d-flex flex-md-row flex-column justify-content-around align-items-center mt-5"
       style={{
         backgroundColor: "#3e4855",
-        height: "100px",
+        height: "60px",
         borderRadius: "10px",
       }}
     >

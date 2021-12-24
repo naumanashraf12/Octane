@@ -18,7 +18,7 @@ const Navbar = () => {
       <Row
         style={{
           backgroundColor: "#3e4855",
-          paddingBottom: "10px",
+          paddingBottom: "7px",
           borderRadius: "10px",
         }}
       >
@@ -28,7 +28,7 @@ const Navbar = () => {
           sm="12"
           style={{
             backgroundColor: "white",
-            padding: "10px 0 0px 10px",
+            padding: "5px 0 0px 10px",
             borderRadius: "10px",
           }}
         >
@@ -78,7 +78,7 @@ const Navbar = () => {
                 flexDirection: "column",
                 justifyContent: "center",
                 alignItems: "center",
-                marginTop: "20px",
+                marginTop: "10px",
               }}
             >
               <div className="circle" style={{ display: "flex" }}>
@@ -98,7 +98,7 @@ const Navbar = () => {
                 flexDirection: "column",
                 justifyContent: "center",
                 alignItems: "center",
-                marginTop: "20px",
+                marginTop: "10px",
               }}
             >
               <div className="circleshare" style={{ display: "flex" }}>
@@ -118,7 +118,7 @@ const Navbar = () => {
                 flexDirection: "column",
                 justifyContent: "center",
                 alignItems: "center",
-                marginTop: "20px",
+                marginTop: "10px",
               }}
             >
               <div className="circle" style={{ display: "flex" }}>

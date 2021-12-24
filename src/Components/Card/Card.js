@@ -170,6 +170,7 @@ const Card = () => {
             </p>
 
             <p
+              className="mt-2"
               style={{
                 fontSize: "13px",
                 color: "#3e4855",
@@ -237,6 +238,7 @@ const Card = () => {
             </p>
 
             <p
+              className="mt-2"
               style={{
                 fontSize: "13px",
                 color: "#3e4855",

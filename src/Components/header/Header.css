@@ -3,13 +3,13 @@ p {
   color: "#3e4855" !important;
 }
 .header_pad {
-  margin-top: 10rem;
+  margin-top: 5rem;
 }
 .Header_img {
-  width: 400px;
+  width: 350px;
 }
 .Header_p {
-  font-size: 28px;
+  font-size: 24px;
   color: "#3e4855" !important;
   line-height: 34px;
 }
@@ -25,8 +25,8 @@ p {
   /* -moz-box-shadow: 10px -6px rgba(0, 0, 0, 0.6);
   -webkit-box-shadow: 10px -6px rgba(0, 0, 0, 0.6);
   -o-box-shadow: 10px -6px rgba(0, 0, 0, 0.6); */
-  width: 500px;
-  height: 500px;
+  width: 400px;
+  height: 400px;
 }
 .width_content {
   width: fit-content;

@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <Container className="header_pad">
       <Row>
-        <Col md="6" className="HEADER mt-5">
+        <Col md="6" className="HEADER mt-5 mb-5">
           <p
             style={{
               fontSize: "30px",
@@ -17,7 +17,7 @@ const Header = () => {
           >
             Welcome To <br />
             <span
-              style={{ fontSize: "60px", color: "#3e4855", fontWeight: "1000" }}
+              style={{ fontSize: "55px", color: "#3e4855", fontWeight: "1000" }}
             >
               Okane<span style={{ color: "#68ebca" }}>D</span>eFi
             </span>

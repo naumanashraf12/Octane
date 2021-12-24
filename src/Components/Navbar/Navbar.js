@@ -34,7 +34,7 @@ const Navbar = () => {
         >
           <div className="d-flex flex-row r_mobile">
             <img
-              style={{ width: "100px", marginBottom: "15px" }}
+              style={{ width: "80px", height: "80%", marginBottom: "15px" }}
               src="./images/okane-256.png"
               alt=""
             />
@@ -83,12 +83,12 @@ const Navbar = () => {
             >
               <div className="circle" style={{ display: "flex" }}>
                 <img
-                  style={{ width: "50px", margin: "auto" }}
+                  style={{ width: "40px", margin: "auto" }}
                   src="./images/okane-256.png"
                   alt=""
                 />
               </div>
-              <p style={{ margin: "0px", color: "white", fontSize: "22px" }}>
+              <p style={{ margin: "0px", color: "white", fontSize: "18px" }}>
                 $4.56
               </p>
             </div>
@@ -103,12 +103,12 @@ const Navbar = () => {
             >
               <div className="circleshare" style={{ display: "flex" }}>
                 <img
-                  style={{ width: "50px", margin: "auto" }}
+                  style={{ width: "40px", margin: "auto" }}
                   src="./images/oshare-256.png"
                   alt=""
                 />
               </div>
-              <p style={{ margin: "0px", color: "white", fontSize: "22px" }}>
+              <p style={{ margin: "0px", color: "white", fontSize: "18px" }}>
                 $4.56
               </p>
             </div>
@@ -123,12 +123,12 @@ const Navbar = () => {
             >
               <div className="circle" style={{ display: "flex" }}>
                 <img
-                  style={{ width: "50px", margin: "auto" }}
+                  style={{ width: "40px", margin: "auto" }}
                   src="./images/obond-256.png"
                   alt=""
                 />
               </div>
-              <p style={{ margin: "0px", color: "white", fontSize: "22px" }}>
+              <p style={{ margin: "0px", color: "white", fontSize: "18px" }}>
                 $44,414.56
               </p>
             </div>

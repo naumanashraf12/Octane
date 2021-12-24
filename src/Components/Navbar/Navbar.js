@@ -64,6 +64,7 @@ const Navbar = () => {
                 <div className="gpt3__navbar-menu_container scale-up-center">
                   <div className="gpt3__navbar-menu_container-links">
                     <Menu />
+                    <button className="nav_button">MY WALLET</button>
                   </div>
                 </div>
               )}

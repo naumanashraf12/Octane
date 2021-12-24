@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <div
-      className="d-flex flex-md-row flex-column justify-content-around align-items-center mt-5"
+      className="d-flex flex-md-row flex-column justify-content-around align-items-center mt-4"
       style={{
         backgroundColor: "#3e4855",
         height: "60px",

@@ -3,7 +3,7 @@ import { Col, Container, Row } from "react-bootstrap";
 import "./Navbar.css";
 const Menu = () => (
   <>
-    <p>Home</p>
+    <p>HOME</p>
     <p>FARM</p>
     <p>BOARDROOM</p>
     <p>BOND</p>
